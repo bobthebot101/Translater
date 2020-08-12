@@ -6,7 +6,9 @@ Translater-googletrans.py
 
 Download 
 edit 
-change input text, input Language, Output language.
+change: input text
+change: input Language
+change: Output language.
 RUN Enjoy 
 
 
